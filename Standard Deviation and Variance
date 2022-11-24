@@ -1,0 +1,67 @@
+What is Standard Deviation?
+The Standard Deviation is a measure of how spread out numbers are.
+
+Its symbol is σ (the greek letter sigma)
+
+The formula is easy: it is the square root of the Variance. So now you ask, "What is the Variance?"
+The standard deviation is used to measure the spread of values in a dataset.
+
+Individuals and companies use standard deviation all the time in different fields to gain a better understanding of datasets.
+
+The following examples explain how the standard deviation is used in different real life scenarios.
+
+Example 1: Standard Deviation in Weather Forecasting
+Standard deviation is widely used in weather forecasting to understand how much variation exists in daily and monthly temperatures in different cities.
+
+For example:
+
+A weatherman who works in a city with a small standard deviation in temperatures year-round can confidently predict what the weather will be on a given day since temperatures don’t vary much from one day to the next.
+A weatherman who works in a city with a high standard deviation in temperatures will be less confident in his predictions because there is much more variation in temperatures from one day to the next.
+Example 2: Standard Deviation in Healthcare
+Standard deviation is widely used by insurance analysts and actuaries in the healthcare industry.
+
+
+
+For example:
+
+Insurance analysts often calculate the standard deviation of the age of the individuals they provide insurance for so they can understand how much variation exists among the age of individuals they provide insurance for.
+Actuaries calculate standard deviation of healthcare usage so they can know how much variation in usage to expect in a given month, quarter, or year.
+Example 3: Standard Deviation in Real Estate
+Standard deviation is a metric that is used often by real estate agents.
+
+For example:
+
+Real estate agents calculate the standard deviation of house prices in a particular area so they can inform their clients of the type of variation in house prices they can expect.
+Real estate agents also calculate the standard deviation of the square footage of house prices in certain areas so they can inform their clients on what type of variation to expect in terms of square footage of houses in a particular area.
+Example 4: Standard Deviation in Human Resources
+Standard deviation is often used by individuals who work in Human Resource departments at companies.
+
+
+
+For example:
+
+Human Resource managers often calculate the standard deviation of salaries in a certain field so that they can know what type of variation in salaries to offer to new employees.
+Example 5: Standard Deviation in Marketing
+Standard deviation is often used by marketers to gain an understanding of how their advertisements perform.
+
+For example:
+
+Marketers often calculate the standard deviation of revenue earned per advertisement so they can understand how much variation to expect in revenue from a given ad.
+Marketers also calculate the standard deviation of the number of ads used by competitors to understand whether or not competitors are using more or less ads than normal during a given period.
+Example 6: Standard Deviation in Test Scores
+Standard deviation is used by professors at universities to calculate the spread of test scores among students.
+
+For example:
+
+Professors can calculate the standard deviation of test scores on a final exam to better understand whether most students score close to the average or if there is a wide spread in test scores.
+Professors can also calculate the standard deviation of test scores for multiple classes to understand which classes had the highest variation in test scores among students.
+
+
+What is Variance?
+The average of the squared differences from the Mean.
+The term variance refers to a statistical measurement of the spread between numbers in a data set. More specifically, variance measures how far each number in the set is from the mean (average), and thus from every other number in the set. Variance is often depicted by this symbol: σ2. It is used by both analysts and traders to determine volatility and market security.
+
+The square root of the variance is the standard deviation (SD or σ), which helps determine the consistency of an investment’s returns over a period of time.
+Investors use variance to see how much risk an investment carries and whether it will be profitable.
+Variance is also used in finance to compare the relative performance of each asset in a portfolio to achieve the best asset allocation.
+The square root of the variance is the standard deviation.
