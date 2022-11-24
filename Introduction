@@ -5,3 +5,133 @@ Natural Sciences Social Sciences
 Data Science is evolved
 Kaggle KDNuggets and StackOVerflow
 PythonProgramming.net
+What is Data Science?
+Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results.
+Refernce website for better understanding:https://aws.amazon.com/what-is/data-science/
+What is mean?
+The Mean value of a dataset is the average value i.e. a number around which a whole data is spread out. All values used in calculating the average are weighted equally when defining the Mean.
+
+For example, let’s calculate the Mean of the following 5 numbers:
+
+(3 + 64 + 187 + 12 + 52) / 5 = 63.6
+
+The mean is great for computing the actual mathematical average. It’s also very fast to compute with Python libraries like Numpy
+Mean is an essential concept in mathematics and statistics. The mean is the average or the most common value in a collection of numbers.
+Example of mean:
+The mean can be used to represent the typical value and therefore serves as a yardstick for all observations.
+
+For example, if we would like to know how many hours on average an employee spends at training in a year, we can find the mean training hours of a group of employees. This mean can then be used to compare against an individual’s annual training hours to judge if he has had comparable opportunity for training as his colleagues. Similarly, to compare the annual training hours of a smaller group against a more comprehensive group, their respective means can be used. An example would be comparing the mean number of annual training hours for women and for all employees.
+What is Median?
+Median is the middle value of the dataset i.e if we sort the data from smallest to biggest (or biggest to smallest) and then take the value in the middle of the set: that’s the Median.
+
+Let’s again compute the Median for that same set of 5 numbers:
+
+[3, 12, 52, 64, 187] → 52
+IF there is two numbers means median will be average of two numbers
+Examples of Median 
+1. Choosing the appropriate movie genre
+Suppose, you and your family members go to watch a movie. When you reach the cinema premises, you see that there are three different types of movies available. Now, you are supposed to select the perfect movie that is enjoyable for all the members. Let, the three types of movies available be: animated (best suited for the kids), thriller (liked by the teenage group), and biopic (preferred by the adults). The ages (in years) of people who have visited are- 6, 13, 15, 17, and 60. If you calculate the mean or the average for the following data, it comes out to be 22, which belongs to the adult age group. So, you opt for the biopic. But, in the theatre, you will find only one person to be enjoying it, while the others will get bored. The better alternative in such a case is to calculate the median instead of calculating the mean. The median is the middle value of the properly arranged data, i.e., 15 in this case. When you decide to watch a thriller movie, more people enjoy the cinema day out. The next time, you can apply the concept of median to decide which movie you should watch.
+
+Family in cinema animation | Motion design animation, Motion graphics inspiration, Animation design
+
+2. Grouping Data
+Suppose, you have to organize an activity in your class, for which you are supposed to divide the students of the class into two groups. But, you can’t decide how to proceed as you can not abruptly put people into different categories. To do so, you should first decide the factor according to which you want the grouping to be done. For example, let the factor chosen is the height of the students. Now, just note down the height of all the students, and arrange the data in ascending order. Let, the data be arranged as- 152 cm, 158 cm, 160 cm, 162 cm, 189 cm, and 195 cm. If you calculate the median of the above-mentioned data, it comes out to be 161 cm. Now, two groups can be formed very easily, one would be a group of students with a height above 161 cm, while the second group has a height below 161 cm.
+
+GIFkaro - World's Largest Library of Indian GIFs
+
+3. Explicating the Poverty Line
+One of the prime applications of the concept of the median lies in the calculation of the poverty line. Let us suppose, we have the information about the monthly income (in INR) of different groups of people in the following range, i.e., 1000, 2000, 3000, 30000, and 80000. The mean comes out to be INR 23,500. If someone employs the concept of mean to set the poverty line, it would be highly inappropriate. This is why we jump to another notion, i.e., median. The median of the above data comes out to be INR 3000, which can more accurately decide that the people below this benchmark are poverty-ridden.
+
+Poverty
+
+4. Buying a property
+Buying a property is a peculiar decision in one’s life. Assume that you visit a broker who deals in real estate, he shows you pictures of various houses with their respective prices (in the Indian rupees), 30L, 32L, 38L, 40L, 87L, 90L, and 95L. You ask him for the average price to which he replies INR 60L. Also, you observe that the median price is INR 40L. In this case, you may easily get trapped in the dilemma that the houses with lesser prices might have some flaws in them, while the expensive ones go out of the budget that you have planned. When you consider all the factors, you tend to go with the house worth middle or median price, i.e., INR 40L, and that proves to be the wise decision. Hence, you may consider taking the help of the median while choosing an appropriate property to invest in.
+
+Happy house by Miguel E. on Dribbble
+
+
+5. Home budget
+We all tend to plan a monthly budget irrespective of whether we follow it or not. Suppose, every month you spend INR 700 on personal care, INR 100 to pay the water bill, INR 800 on snacks, INR 500 to pay the electricity bill, and INR 6000 to pay the house rent. If you calculate the average expenditure, it comes out to be INR 1,620 by the notion of mean, and INR 700 by employing the median concept. However, the median concept, here, is more efficient because the nature of the data is skewed and asymmetrical.
+
+Creating Your Budget: Tips And Tricks For New Grads - Society19
+
+6. Business
+Statistics play a key role in business management. Let us say, a businessman who deals in shoes has set distinct prices for different products, say, INR 120, INR 180, INR 250, INR 400, and INR 1000. He needs to improve his business by revising the product cost that is more acceptable to most people. He calculates mean that comes out to be INR 390, while the median comes out to be INR 250. Here, mean will not be that helpful because the person who tends to buy shoes worth INR 400 will find no difference in the new price, i.e., INR 390, while the other person who was able to afford shoes worth INR 120 has to wait until he reaches the average price, i.e., INR 390. On the other hand, the median allows the customers of all sorts to reach a moderate price that they can easily afford. Hence, his business blooms.
+
+Business Fella for Anya Hindmarch | Motion design animation, Motion graphics inspiration, Motion design
+
+7. Median Salary
+Different workplaces have separate rules and regulations. Some of them take the basis of the average salary, while some of them choose the median salary to set a reference. Median salary helps the employees know the middle point of their salaries in their careers. It is also called the 50 per cent income, which means half of the employees work above this median salary, while half of them work below it. This gives a sense of healthy competition and allows them to grow.
+
+What is Mode?
+ If your variable of interest is measured in nominal or ordinal (Categorical) level then Mode is the most often used technique to measure the central tendency of your data.
+
+Finding the mode is easy. Basically, it is the value that occurs most frequently.  In other words, mode is the most common outcome. Mode is the name of the category that occurs more often.
+
+There is a chance of having more than one mode in your variable.
+
+
+
+                                                                                                                      Here you have two modes.
+                                                                                                                      
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+The mean, median, and mode are three metrics that are commonly used to describe the center of a dataset.
+
+Here’s a quick definition of each metric:
+
+Mean: The average value in a dataset.
+Median: The middle value in a dataset.
+Mode: The most frequently occurring value(s) in a dataset.
+Individuals and companies use these metrics all the time in different fields to gain a better understanding of datasets.
+
+The following examples explain how the mean, median, and mode are used in different real life scenarios.
+
+Example 1: Mean, Median, & Mode in Healthcare
+The mean, median, and mode are widely used by insurance analysts and actuaries in the healthcare industry.
+
+For example:
+
+Mean: Insurance analysts often calculate the mean age of the individuals they provide insurance for so they can know the average age of their customers.
+Median: Actuaries often calculate the median amount spend on healthcare each year by individuals so they can know how much insurance they need to be able to provide to individuals.
+Mode: Actuaries also calculate the mode of their customers (the most commonly occurring age) so they can know which age group uses their insurance the most.
+
+
+Example 2: Mean, Median, & Mode in Real Estate
+The mean, median, and mode are also used often by real estate agents.
+
+For example:
+
+Mean: Real estate agents calculate the mean price of houses in a particular area so they can inform their clients of what they can expect to spend on a house.
+Median: Real estate agents also calculate the median price of houses to gain a better idea of the “typical” home price, since the median is less influenced by outliers (like multi-million dollar homes) compared to the mean.
+Mode: Real estate agents also calculate the mode of the number of bedrooms per house so they can inform their clients on how many bedrooms they can expect to have in houses in a particular area.
+Example 3: Mean, Median, & Mode in Human Resources
+The mean, median, and mode are often used by individuals who work in Human Resource departments at companies.
+
+
+
+For example:
+
+Mean: Human Resource managers often calculate the mean salary of individuals in a certain field so that they can know what type of “average” salary to offer to new employees.
+Median: Human Resource managers also often calculate the median salary in certain fields so that they can be informed of what the typical “middle” salary is for a particular field.
+Mode: Human Resource managers also calculate the mode of different positions in the company so that they can be aware of the most common position of employees at their company.
+Example 4: Mean, Median, & Mode in Marketing
+The mean, median, and mode are often used by marketers to gain an understanding of how their advertisements perform.
+
+For example:
+
+Mean: Marketers often calculate the mean revenue earned per advertisement so they can understand how much money their company is making on each ad.
+Median: Marketers also calculate the median revenue earned per advertisement so they can understand how well the median ad performs.
+Mode: Marketers also calculate the mode of the type of ad used (e.g. newspaper, TV, radio, digital) so they can know which type of ads their company uses most often.
+
+
+When to use mean mode and median?
+If data is Categorical (Nominal or Ordinal) it is impossible to calculate mean or median. So, go for mode.
+If your data is quantitative then go for mean or median. Basically, if your data is having some influential outliers or data is highly skewed then median is the best measurement for finding central tendency. Otherwise go for Mean.
+
+W
